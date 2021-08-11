@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Jost";
+  src: url("~static/Jost.woff2") format("woff2-variations");
+  font-weight: 1 999;
+}
+
+body {
+  font-family: "Jost";
+}
